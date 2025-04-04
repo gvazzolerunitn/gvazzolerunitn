@@ -1,5 +1,5 @@
 # Hi 👋, I'm Gianluigi :
-🔭 Currently studying M.Sc. in Artificial Intelligence Systems @unitrento<br>🎓 B.S. in Computer Engineering, Electronics, and Communications<br>⚡ Passionate about computer vision, sports, music production and photo/video editing<br>
+🔭 Currently studying M.Sc. in Artificial Intelligence Systems [@unitrento](https://corsi.unitn.it/en/artificial-intelligence-systems)<br>🎓 B.S. in Computer Engineering, Electronics, and Communications<br>⚡ Passionate about computer vision, sports, music production and photo/video editing<br>
 
 
 ## 🌐 Socials:
