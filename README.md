@@ -1,4 +1,4 @@
-### Hi 👋, I'm Gianluigi
+## Hi 👋, I'm Gianluigi
 ***
 If you need to contact me: gianluigi.vazzoler@gmail.com
 
