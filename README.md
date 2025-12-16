@@ -8,7 +8,7 @@
   </a>
 
   <p align="center">
-     <em>Bridging the gap between <strong>Software Engineering</strong> and <strong>Visual Intelligence</strong>.</em>
+     <em>Specializing in <strong>Deep Learning</strong> and <strong>Computer Vision</strong>.</em>
      <br>
      Based in Trento 🇮🇹 & Trondheim 🇳🇴
   </p>
@@ -35,32 +35,6 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   </p>
-
-  <br>
-
-  <h3>🔭 Featured Projects</h3>
-  <table>
-    <tr>
-      <td width="50%">
-        <h4 align="center">🤖 VLM Few-Shot Adaptation</h4>
-        <p align="center">Deep Learning project exploring visual-language models adaptation techniques.</p>
-        <p align="center">
-          <a href="https://github.com/gvazzolerunitn/vlm-few-shot-adaptation">
-            <img src="https://img.shields.io/badge/View_Repo-blue?style=flat-square&logo=github">
-          </a>
-        </p>
-      </td>
-      <td width="50%">
-        <h4 align="center">📹 Dynamic Video Compression</h4>
-        <p align="center">Smart surveillance system using motion detection to optimize storage.</p>
-        <p align="center">
-          <a href="https://github.com/gvazzolerunitn/dynamic-video-compression-surveillance">
-            <img src="https://img.shields.io/badge/View_Repo-blue?style=flat-square&logo=github">
-          </a>
-        </p>
-      </td>
-    </tr>
-  </table>
 
   <br>
   
