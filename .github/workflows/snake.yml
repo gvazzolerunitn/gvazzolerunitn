@@ -8,13 +8,17 @@ on:
   # Permette di eseguire il workflow manualmente
   workflow_dispatch:
 
+# --- QUESTA È LA PARTE MANCANTE ---
+permissions: 
+  contents: write
+# ----------------------------------
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
       
-      # FIX: Passaggio alla versione v3 (svg-only) per risolvere l'errore "split"
       - uses: Platane/snk/svg-only@v3
         id: snake-gif
         with:
