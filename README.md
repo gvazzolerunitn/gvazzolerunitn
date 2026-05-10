@@ -36,23 +36,4 @@
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   </p>
 
-  <br>
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/gvazzolerunitn/gvazzolerunitn/blob/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/gvazzolerunitn/gvazzolerunitn/blob/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://github.com/gvazzolerunitn/gvazzolerunitn/blob/output/github-contribution-grid-snake.svg">
-  </picture>
-
-  <br><br>
-
-  <p>
-    <a href="https://www.linkedin.com/in/gianluigivazzoler/">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:gianluigi.vazzoler@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-  </p>
-
 </div>
