@@ -10,7 +10,7 @@
   <p align="center">
      <em>Specializing in <strong>Deep Learning</strong> and <strong>Computer Vision</strong>.</em>
      <br>
-     Based in Trento 🇮🇹 & Trondheim 🇳🇴
+     Based in Trento 🇮🇹 & Montreal 🇨🇦
   </p>
 
   <br>
